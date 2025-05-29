@@ -3,7 +3,7 @@
 This repository presents a comprehensive data engineering project focused on processing and analyzing employment data in California to support international student workforce initiatives. The project involved setting up scalable data infrastructure, cleaning raw datasets, and executing SQL queries across distributed systems to identify employment trends by industry and time period.
 
 
-## 🧾 Project Overview
+##  Project Overview
 
 **Objective:**
 To collect, store, clean, and analyze employment data across California counties and years, enabling data analysts to extract valuable insights for international student employment strategy.
@@ -46,7 +46,7 @@ Three datasets sourced from:
 * Executed comparative queries to evaluate response time and performance between Hive and Spark
 * Spark consistently demonstrated better performance than Hive
 
-## 📈 Key Insights
+##  Key Insights
 
 * Identified top 5 and top 10 industries with highest employment across different time periods
 * Significant industry trends emerged in the hospital and services sectors
