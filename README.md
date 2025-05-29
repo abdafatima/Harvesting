@@ -1,4 +1,4 @@
-# 📊 Employment Opportunities for International Students in California
+# Employment Opportunities for International Students in California
 
 This repository presents a comprehensive data engineering project focused on processing and analyzing employment data in California to support international student workforce initiatives. The project involved setting up scalable data infrastructure, cleaning raw datasets, and executing SQL queries across distributed systems to identify employment trends by industry and time period.
 
@@ -22,7 +22,7 @@ Three datasets sourced from:
 * BigQuery
 * Hive & Spark SQL
 
-## 📁 Workflow Summary
+## Workflow Summary
 
 ### 1. Data Storage & Infrastructure Setup
 
@@ -52,7 +52,7 @@ Three datasets sourced from:
 * Significant industry trends emerged in the hospital and services sectors
 * Spark proved more efficient in query execution across large datasets
 
-## 📊 Query Examples
+##  Query Examples
 
 ```sql
 -- Example: Total hospital employment from 2002 to 2013
@@ -64,7 +64,7 @@ ORDER BY Year, Month
 LIMIT 50;
 ```
 
-## 📌 Performance Comparison (Hive vs Spark)
+##  Performance Comparison (Hive vs Spark)
 
 | Query             | Hive Time | Spark Time |
 | ----------------- | --------- | ---------- |
@@ -72,14 +72,14 @@ LIMIT 50;
 | SELECT \* LIMIT 5 | 6.39s     | 0.42s      |
 | Top 10 industries | 7.74s     | 4.91s      |
 
-## 📅 Project Timeline & Milestones
+##  Project Timeline & Milestones
 
 * GCP Setup: April 13–20, 2024
 * Data Cleaning: April 13–20, 2024
 * Query Execution: April 20–27, 2024
 * Report Completion & Presentation: April 27, 2024
 
-## 📚 References
+##  References
 
 * [California Employment Statistics Dataset](https://data.ca.gov/dataset/current-employment-statistics-ces-2)
 * [Short-Term Industry Employment Projections](https://catalog.data.gov/dataset/short-term-industry-employment-projections)
