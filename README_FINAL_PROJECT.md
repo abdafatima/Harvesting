@@ -2,15 +2,6 @@
 
 This repository presents a comprehensive data engineering project focused on processing and analyzing employment data in California to support international student workforce initiatives. The project involved setting up scalable data infrastructure, cleaning raw datasets, and executing SQL queries across distributed systems to identify employment trends by industry and time period.
 
-## 👥 Team Members
-
-- Deepthimai Potla  
-- Abda Fatima Syeda  
-- Thulsi Buyyankar  
-- Sharanya Chinnigari  
-- Mohammed Shaik Afroz  
-- Tanaya Dutt  
-
 ## 🧾 Project Overview
 
 **Objective:**  
